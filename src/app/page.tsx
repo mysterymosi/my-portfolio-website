@@ -219,7 +219,7 @@ function Resume() {
     },
   ]
 
-  const link = "https://firebasestorage.googleapis.com/v0/b/the-tutor-app.appspot.com/o/Okimmosi%20Miracle%20Odey%20Resume.pdf?alt=media&token=c9ccee4a-9c0b-410c-b494-a1396d8aab12"
+  const link = "https://firebasestorage.googleapis.com/v0/b/the-tutor-app.appspot.com/o/Okimmosi%20Odey%20CV.pdf?alt=media&token=52b47bcf-6a02-4a61-922a-158e8161dec2"
 
 
   return (
